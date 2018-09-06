@@ -1,6 +1,6 @@
 # domainfinder
 
-This tool connect to a WHOIS server to ask for details about the domains, and so, find a domain available based on a synomys of a given word.
+This tool connect to a WHOIS server to ask for details about the domains, and so, to find a domain available based on the synonyms of a certain word.
 
 1. Build the tool executing ./build.sh
 2. Define the environment variable *BIG_HUGE_THESAURUS* with the API key of the Big Huge Thesaurus api. [Get API Key here](https://words.bighugelabs.com/getkey.php)
